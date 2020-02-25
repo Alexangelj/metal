@@ -7,7 +7,9 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "truffle test"
+    "test": "truffle test",
+    "compile" : "truffle compile",
+    "migrate" : "truffle migrate"
   },
   "author": "Alexander Angel",
   "license": "ISC",
